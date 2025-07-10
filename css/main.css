@@ -1,0 +1,125 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    margin: 0;
+}
+
+
+.logo-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.btn-font{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+/* logo site name */
+.site-name{
+    font-size: 34px;
+    color: rgba(78, 71, 255, 1);
+    font-weight: 900;
+}
+ 
+
+
+/* primary button */
+.btn-primary{
+    background-color: rgba(78, 71, 255, 1);
+    color: white;
+}
+
+.btn-1{
+    width: 132px;
+    height: 48px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    font-weight:500 ;
+}
+
+.btn-2{
+    width: 174px;
+    height: 48px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    font-weight:500 ;
+}
+
+.main-heading{
+    font: bold;
+    font-size: 65px;
+    margin-bottom: 37px;
+    color: #252432;
+}
+
+.navbar_banner{
+    padding: 1px;
+    background-image: url('/Assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 150px;
+}
+
+.banner{
+    margin: 309px 267.5px 152px 309px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.btn-3{
+    width: 229px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font: bold;
+}
+
+.action{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 116px 160px 116px  140px;
+}
+
+
+
+
+.action-text{
+    font: bold;
+    font-size: 42px;
+    color: #252432;
+    margin-bottom: 23px;
+}
+
+.action-para{
+    font-size: 24px;
+    color: #252432;
+    opacity: 50%;
+    margin-bottom: 23px;
+    width: 517px;
+}
+
+.mini-img{
+    width: 403px;
+    height: 328px;
+    border: none;
+    border-radius: 48px;
+}
