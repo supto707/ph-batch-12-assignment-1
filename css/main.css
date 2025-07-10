@@ -123,3 +123,18 @@
     border: none;
     border-radius: 48px;
 }
+
+
+.productive-user{
+    width: 1140px;
+    height: 306px;
+    margin: 116px 159px 137px 141px;
+    border: none;
+    border-radius: 24px;
+    background-color: rgba(78, 71, 255, 0.1);
+    
+}
+
+.productive-user-content{
+    margin: 50px 142px;
+}
