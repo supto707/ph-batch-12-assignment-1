@@ -75,7 +75,7 @@ button:hover{
 
 .navbar_banner{
     padding: 1px;
-    background-image: url('./images/hero-bg.png');
+    background-image: url('../images/hero-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -187,6 +187,7 @@ button:hover{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    gap: 20px;
     margin: 50px 149px 137px 151px;
 }
 
